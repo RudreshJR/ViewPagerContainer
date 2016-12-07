@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_c2ff408a831da5f59da446d6d555043f8f08f0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_3d51ab6eb5ad61fd37aba87e83ccdb3854b10e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_f82c1c1e9a8d844e1b205143533c8a8d5acd659c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_70c6d3eeb885f84727080e242dea1038846f78bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_5aa9386002ca01a62bc58352e65a1859a3ae38b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_646be4bb7f35c69d7e0fe45a566fe6a418b470e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_3d58f9f9928911c2b91c2bd2406ff8668e4e7d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4e70ec67e55d8ef7037b966ef179419844709aee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5f140694a1d44783c615f568e09a5742e43abbdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_c672dc0811ec583c5323aad7e9054d55b30648ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_bdfdb7ebfeba3f1e31bfdf5f545a1a75c90b70ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_e4ff0aad5191e0a324128be441197e3d3170e4eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_38053426fd14cf7023ccac20defe7855afb7f2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rudresh.jr\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1d854cf7a4ac8d85d425e772de810ad6d46527c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\PagerContainer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\PagerContainer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_266c77a39e999afada5c608253cee019592f8d9a.jar" />
+    </item>
+
+</items>
